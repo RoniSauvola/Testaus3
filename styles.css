@@ -1,0 +1,27 @@
+body {
+	background: black;
+	color: white;
+}
+h1 {
+	font-size: 20px;
+}
+p {
+	font-size: 12px;
+	color: green;
+}
+.myDiv {
+	border: 2px outset yellow;
+	border: dotted;
+	height: 100px;
+	width: 100px;
+	background-color: red;    
+	text-align: center;
+  
+}
+ol {
+	list-style-type: upper-latin;
+}
+
+ul {
+	list-style-type: square;
+}
